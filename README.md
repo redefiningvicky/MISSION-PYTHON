@@ -61,6 +61,14 @@ Make a 3:2 landscape cover, at least 1200px wide, with the same moon, star map, 
 <p>
 </details>
 
+<details>
+<summary><strong>View Final</strong></summary><p></p>
+
+<p>
+Keep everything the same. Remove the horizontal and vertical grid lines from the background. Keep only the circular star map coordinate lines and the background orbit circle. Keep the orbit ring on the MISSION: PYTHON badge. High resolution JPG for both images.
+<p>
+</details>
+
 ## 📱 Lock Screen and Cover Images <br>
-<img src="https://github.com/redefiningvicky/MISSION-PYTHON/blob/95b1a70dc0c91d4e528b405fbaf25fef0a05795f/Mission_Python/Mission_Python_Cover.jpg" width="625" />
-<img src="https://github.com/redefiningvicky/MISSION-PYTHON/blob/95b1a70dc0c91d4e528b405fbaf25fef0a05795f/Mission_Python/Mission_Python_Lockscreen.jpg" width="625" />
+<img src="https://github.com/redefiningvicky/MISSION-PYTHON/blob/e3a28539230ed772e43189a5a884ad1133a08e0c/Mission_Python/Mission_Python_Cover.jpg" width="625" />
+<img src="https://github.com/redefiningvicky/MISSION-PYTHON/blob/e3a28539230ed772e43189a5a884ad1133a08e0c/Mission_Python/Mission_Python_Lockscreen.jpg" width="625" />
