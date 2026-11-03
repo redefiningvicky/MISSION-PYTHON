@@ -65,7 +65,7 @@ Make a 3:2 landscape cover, at least 1200px wide, with the same moon, star map, 
 <summary><strong>View Final Prompt</strong></summary><p></p>
 
 <p>
-Keep everything the same. Remove the horizontal and vertical grid lines from the background. Keep only the circular star map coordinate lines and the background orbit circle. Keep the orbit ring on the MISSION: PYTHON badge. High resolution JPG for both images.
+Keep everything the same. Remove the horizontal and vertical grid lines from the background. Keep only the circular star map coordinate lines and the background orbit circle. Keep the orbit ring on the MISSION: PYTHON badge.
 <p>
 </details>
 
