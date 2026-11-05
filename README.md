@@ -3,6 +3,8 @@
 MISSION: PYTHON is a NASA-inspired countdown lock screen built with Gemini, tracking three Python project milestones against a silvery moon and deep space backdrop. Refined through iterative prompt engineering for clean mobile readability on iPhone. Claude was used for prompt strategy and design direction throughout the process.
 ## 🛠️ Tools <br>
 Gemini, Claude <p>
+## ⚙️ Model <br>
+Gemini 4 Argon <p>
 ## 🤵🏻 Lock Screen and Cover Prompts <br>
 <details>
 <summary><strong>View Lock Screen Prompt #1</strong></summary><p></p>
