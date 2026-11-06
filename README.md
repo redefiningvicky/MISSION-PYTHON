@@ -4,7 +4,7 @@ MISSION: PYTHON is a NASA-inspired countdown lock screen built with Gemini, trac
 ## 🛠️ Tools <br>
 Gemini, Claude <p>
 ## ⚙️ Model <br>
-Gemini 4 Argon, 2026 <p>
+Gemini 4 Argon (2026) <p>
 ## 🤵🏻 Lock Screen and Cover Prompts <br>
 <details>
 <summary><strong>View Lock Screen Prompt #1</strong></summary><p></p>
