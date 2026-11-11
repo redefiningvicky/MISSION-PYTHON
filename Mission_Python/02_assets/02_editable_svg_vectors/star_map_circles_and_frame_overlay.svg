@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1125 2436" width="1125" height="2436">
+  <!-- Thin Metallic Briefing Frame -->
+  <rect x="28" y="28" width="1069" height="2380" rx="28" ry="28"
+        fill="none" stroke="#C8D2DC" stroke-width="4" opacity="0.85"/>
+  <!-- Concentric Star Map Coordinate Circles -->
+  <circle cx="562.5" cy="1260" r="510" fill="none" stroke="#8FA0B0" stroke-width="1.8" opacity="0.45"/>
+  <circle cx="562.5" cy="1260" r="496" fill="none" stroke="#8FA0B0" stroke-width="1.2" stroke-dasharray="10 8" opacity="0.4"/>
+  <circle cx="562.5" cy="1260" r="365" fill="none" stroke="#8FA0B0" stroke-width="1.5" opacity="0.35"/>
+  <circle cx="562.5" cy="1260" r="235" fill="none" stroke="#8FA0B0" stroke-width="1.2" opacity="0.3"/>
+  <!-- Background Tilted Orbit Circle/Ellipse -->
+  <g transform="rotate(-24 562.5 1190)">
+    <ellipse cx="562.5" cy="1190" rx="520" ry="210" fill="none" stroke="#DCE6F0" stroke-width="2.2" opacity="0.65"/>
+  </g>
+</svg>
