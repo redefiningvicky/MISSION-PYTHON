@@ -197,9 +197,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/MISSION-PYTHON/blob/main/Mission_Python/Mission_Python_Cover.jpg">
+      <a href="https://github.com/redefiningvicky/MISSION-PYTHON/blob/main/01_final_composites/Mission_Python_Cover.jpg">
         <img
-          src="Mission_Python/Mission_Python_Cover.jpg"
+          src="01_final_composites/Mission_Python_Cover.jpg"
           alt="MISSION: PYTHON cover artwork"
           width="100%"
         />
@@ -213,9 +213,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/MISSION-PYTHON/blob/main/Mission_Python/Mission_Python_Lockscreen.jpg">
+      <a href="https://github.com/redefiningvicky/MISSION-PYTHON/blob/main/01_final_composites/Mission_Python_Lockscreen.jpg">
         <img
-          src="Mission_Python/Mission_Python_Lockscreen.jpg"
+          src="01_final_composites/Mission_Python_Lockscreen.jpg"
           alt="MISSION: PYTHON countdown lock screen"
           width="100%"
         />
