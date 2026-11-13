@@ -46,6 +46,10 @@
   <strong>Model:</strong> Gemini 4 Argon (2026)
 </p>
 
+<p>
+  <strong>Format:</strong> Images
+</p>
+
 <hr>
 
 <h2 id="prompts">🤵🏻 Prompts</h2>
